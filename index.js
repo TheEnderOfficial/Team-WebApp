@@ -35,7 +35,7 @@ function saveBot() {
     })
 }
 
-const sdk = new SDK("http://localhost:9001", true)
+const sdk = new SDK("http://7.tcp.eu.ngrok.io:16098", true)
 
 function cfgure () {
     document.querySelector("#botList").innerHTML = ""
