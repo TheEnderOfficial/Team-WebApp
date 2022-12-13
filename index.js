@@ -35,7 +35,7 @@ function saveBot() {
     })
 }
 
-const sdk = new SDK("http://7.tcp.eu.ngrok.io:16098", true)
+const sdk = new SDK("https://6df3-185-38-142-61.eu.ngrok.io", true)
 
 function cfgure () {
     document.querySelector("#botList").innerHTML = ""
