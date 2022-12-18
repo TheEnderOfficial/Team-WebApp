@@ -35,7 +35,7 @@ function saveBot() {
     })
 }
 
-const sdk = new SDK("https://6df3-185-38-142-61.eu.ngrok.io", true)
+const sdk = new SDK("https://6ec5-185-38-142-61.eu.ngrok.io", true)
 
 function cfgure () {
     document.querySelector("#botList").innerHTML = ""
